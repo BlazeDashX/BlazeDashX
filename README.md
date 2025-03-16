@@ -1,83 +1,81 @@
-# 👋 Welcome to My GitHub Profile!  
+<h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB&label=Profile%20Views&color=blue&style=flat)  
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB?logo=github)](https://github.com/YOUR_GITHUB?tab=followers)  
-[![Stars](https://img.shields.io/github/stars/YOUR_GITHUB?affiliations=OWNER&logo=github)](https://github.com/YOUR_GITHUB?tab=repositories)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=08F7FE&center=true&width=600&lines=Hi,+I'm+Refat+Md.+Labbi!;AI+%7C+Deep+Learning+%7C+Web+Tech;Exploring+ML%2C+DL%2C+and+Full-Stack+Dev" alt="Typing Animation">
+</p>
 
----
-
-## **🌟 About Me**  
-👋 Hi, I'm **Refat Md. Labbi**, a **Computer Science student at AIUB** passionate about **software development, deep learning, and web technologies**. I enjoy working on **machine learning, compiler design, and full-stack development** while continuously exploring new technologies.  
-
-🔭 **Currently Working On:** Deep Learning, AI Research, Freelancing Web Platform  
-🌱 **Currently Learning:** Model Optimization, Image Segmentation, Full-Stack Web Dev  
-🎯 **Future Goals:** AI Researcher, Software Engineer, Open-Source Contributor  
-
-📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Refat%20Md.%20Labbi-blue?logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![GitHub](https://img.shields.io/badge/GitHub-Refat--Labbi-black?logo=github)](https://github.com/YOUR_GITHUB)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-MyWebsite-green?logo=google-chrome)](YOUR_PORTFOLIO_URL)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/refatlabbi"><img src="https://img.shields.io/badge/LinkedIn-Refat%20Md.%20Labbi-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-MyWebsite-green?logo=google-chrome" alt="Portfolio"></a>
+  <a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/github/followers/YOUR_GITHUB?logo=github" alt="GitHub Followers"></a>
+</p>
 
 ---
 
-## **🚀 Skills & Expertise**  
-### **💻 Programming Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+## 🚀 **About Me**  
+👋 Hi, I'm **Refat Md. Labbi**, a **Computer Science student at AIUB** passionate about **AI, Deep Learning, and Web Development**.  
+- 🔭 **Currently Working On:** AI-based Image Processing, Web Tech, Model Optimization  
+- 🌱 **Learning:** Full-Stack Development, DL Optimization, Cloud AI  
+- 🎯 **Future Goals:** AI Researcher | ML Engineer | Open-Source Contributor  
+- 🏆 **Competitive Coder:** Leetcode & Codeforces  
+
+---
+
+## 🎯 **Technical Skills**  
+📌 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-### **🌐 Web Development**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+📌 **Web Development:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 
-### **🤖 AI & Machine Learning**  
+📌 **AI & Deep Learning:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
 
-### **🛠️ Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+---
+
+## 🔥 **Projects**  
+| 🚀 Project | 📝 Description | 🔗 Link |
+|------------|--------------|--------|
+| **Freelancing Platform** | A web app inspired by Fiverr/Upwork. | [🔗 GitHub](#) |
+| **Syntax Analyzer** | Lexical & syntax analyzer for compiler design. | [🔗 GitHub](#) |
+| **AI-Based Image Segmentation** | Deep learning-based object detection. | [🔗 GitHub](#) |
 
 ---
 
-## **📜 Certifications**  
-✅ **[Certification Name 1](#)** - Issued by [Organization]  
-✅ **[Certification Name 2](#)** - Issued by [Organization]  
-✅ **[Certification Name 3](#)** - Issued by [Organization]  
+## 📊 **GitHub Stats & Activity**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</p>
 
-*(Add your actual certifications here!)*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=algolia&hide_border=true">
+</p>
 
----
-
-## **🔥 Featured Projects**  
-🚀 **[Freelancing Platform Clone](#)** – A web app inspired by Fiverr/Upwork.  
-🖥️ **[Syntax Analyzer for Compiler Design](#)** – Built for processing lexical tokens.  
-🧠 **[AI-Based Image Segmentation](#)** – A deep learning project for object detection.  
-
-*(Add GitHub links or details here!)*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=algolia&hide_border=true">
+</p>
 
 ---
 
-## **📊 GitHub Stats & Activity**  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB&theme=algolia&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=algolia&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=algolia&hide_border=true)  
+## 🎓 **Certifications**  
+✅ **Machine Learning with Python** - Coursera  
+✅ **Deep Learning Specialization** - Stanford AI Lab  
+✅ **Full-Stack Web Development** - Udemy  
 
 ---
 
-## **📬 Connect with Me**  
-📧 Email: refat00021@gmail.com  
-💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/refatlabbi)  
-🐦 Twitter: [@Refat_21]((https://x.com/Refat_21))  
+## 🤝 **Let's Connect**  
+📧 **Email:** [refat00021@gmail.com](mailto:refat00021@gmail.com)  
+🌐 **Portfolio:** [YourWebsite.com](#)  
+💼 **LinkedIn:** [Refat Md. Labbi](https://www.linkedin.com/in/refatlabbi)  
+🐦 **Twitter/X:** [@Refat_21](https://x.com/Refat_21)  
 
 ---
 
-🎉 **Thanks for visiting my profile!** Keep coding and innovating! 🚀  
-
----
+🎉 **Thanks for visiting!** 🚀 Let's build something amazing together!  
