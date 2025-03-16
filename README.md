@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/refatlabbi"><img src="https://img.shields.io/badge/LinkedIn-Refat%20Md.%20Labbi-blue?logo=linkedin" alt="LinkedIn"></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-MyWebsite-green?logo=google-chrome" alt="Portfolio"></a>
-  <a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/github/followers/YOUR_GITHUB?logo=github" alt="GitHub Followers"></a>
+  <a href="https://github.com/BlazeDashX"><img src="https://img.shields.io/github/followers/YOUR_GITHUB?logo=github" alt="GitHub Followers"></a>
 </p>
 
 ---
@@ -22,29 +22,32 @@
 ---
 
 ## 🎯 **Technical Skills**  
-📌 **Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+📌 **Programming Languages:**   
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 
 📌 **Web Development:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-📌 **AI & Deep Learning:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+📌 **Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
+
 
 ---
 
 ## 🔥 **Projects**  
 | 🚀 Project | 📝 Description | 🔗 Link |
 |------------|--------------|--------|
+| **Garage** | A Java-based garage rental system. | [🔗 GitHub](#) |
+| **Military Management System** | A database-driven system for military operations. | [🔗 GitHub](#) |
+| **Garage Rental** | A C# application for managing garage rentals. | [🔗 GitHub](#) |
 | **Freelancing Platform** | A web app inspired by Fiverr/Upwork. | [🔗 GitHub](#) |
-| **Syntax Analyzer** | Lexical & syntax analyzer for compiler design. | [🔗 GitHub](#) |
-| **AI-Based Image Segmentation** | Deep learning-based object detection. | [🔗 GitHub](#) |
+
 
 ---
 
@@ -63,10 +66,14 @@
 
 ---
 
-## 🎓 **Certifications**  
-✅ **Machine Learning with Python** - Coursera  
-✅ **Deep Learning Specialization** - Stanford AI Lab  
-✅ **Full-Stack Web Development** - Udemy  
+## 🎓 **Education & Certifications**  
+🎓 **B.Sc. in Computer Science & Engineering** - AIUB (Expected 2026)  
+
+📌 **Upcoming Certifications:**  
+- **Machine Learning with Python** - Coursera *(Planned)*  
+- **Deep Learning Specialization** - Stanford AI Lab *(Planned)*  
+- **Full-Stack Web Development** - Udemy *(Planned)*  
+
 
 ---
 
