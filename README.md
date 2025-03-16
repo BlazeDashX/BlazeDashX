@@ -53,15 +53,15 @@
 
 ## 📊 **GitHub Stats & Activity**  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BlazeDashX&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=algolia&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlazeDashX&show_icons=true&theme=algolia&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=algolia&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeDashX&layout=compact&theme=algolia&hide_border=true">
 </p>
 
 ---
