@@ -72,10 +72,9 @@
 ---
 
 ## **📬 Connect with Me**  
-📧 Email: your.email@example.com  
-🌐 Portfolio: [YourWebsite.com](#)  
-💼 LinkedIn: [LinkedIn Profile](#)  
-🐦 Twitter: [@YourHandle](#)  
+📧 Email: refat00021@gmail.com  
+💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/refatlabbi)  
+🐦 Twitter: [@YourHandle]([#](https://x.com/Refat_21))  
 
 ---
 
