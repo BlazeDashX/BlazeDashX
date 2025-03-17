@@ -61,7 +61,7 @@
 | **Garage** | A Java-based garage rental system. | [🔗 GitHub](#) |
 | **Military Management System** | A database-driven system for military operations. | [🔗 GitHub](#) |
 | **Garage Rental** | A C# application for managing garage rentals. | [🔗 GitHub](#) |
-| **Freelancing Platform** | A web app inspired by Fiverr/Upwork. | [🔗 GitHub]([#](https://github.com/lut-ful/web-tech-lab-work)) |
+| **Freelancing Platform** | A web app inspired by Fiverr/Upwork. | [🔗 GitHub](https://github.com/lut-ful/web-tech-lab-work) |
 
 
 ---
