@@ -33,14 +33,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-### 🌐 **Web Development**  
+### 🌐 **Web & Backend Development**  
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Web+Development%3A" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Web+%2F+Backend+Development%3A" alt="Typing Animation" />
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 </p>
 
 ### 🗄️ **Databases**  
@@ -48,9 +51,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Databases%3A" alt="Typing Animation" />
   <br>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
-
-
 
 ---
 
@@ -61,7 +63,6 @@
 | **Military Management System** | A database-driven system for military operations. | [🔗 GitHub](#) |
 | **Garage Rental** | A C# application for managing garage rentals. | [🔗 GitHub](#) |
 | **Freelancing Platform** | A web app inspired by Fiverr/Upwork. | [🔗 GitHub](https://github.com/lut-ful/web-tech-lab-work) |
-
 
 ---
 
@@ -88,7 +89,6 @@
 - **Deep Learning Specialization** - Stanford AI Lab *(Planned)*  
 - **Full-Stack Web Development** - Udemy *(Planned)*  
 
-
 ---
 
 ## 🤝 **Let's Connect**  
@@ -99,4 +99,4 @@
 
 ---
 
-🎉 **Thanks for visiting!** 🚀 Let's build something amazing together!  
+🎉 **Thanks for visiting!** 🚀 Let's build something amazing together!
