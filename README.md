@@ -1,102 +1,53 @@
-<h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
+# 👋 Hi, I'm Refat Md. Labbi  
+### 💻 Full-Stack Developer  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=08F7FE&center=true&width=600&lines=Hi,+I'm+Refat+Md.+Labbi!;AI+%7C+Deep+Learning+%7C+Web+Tech;Exploring+ML%2C+DL%2C+and+Full-Stack+Dev" alt="Typing Animation">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/refatlabbi"><img src="https://img.shields.io/badge/LinkedIn-Refat%20Md.%20Labbi-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-MyWebsite-green?logo=google-chrome" alt="Portfolio"></a>
-  <a href="https://github.com/BlazeDashX"><img src="https://img.shields.io/github/followers/YOUR_GITHUB?logo=github" alt="GitHub Followers"></a>
-</p>
+I'm a passionate developer who loves building modern, scalable web applications and learning cutting-edge technologies.  
+Currently exploring **React.js**, **NestJS**, and **Computer Vision** to expand my full-stack and AI capabilities.
 
 ---
 
-## 🚀 **About Me**  
-👋 Hi, I'm **Refat Md. Labbi**, a **Computer Science student at AIUB** passionate about **AI, Deep Learning, and Web Development**.  
-- 🔭 **Currently Working On:** AI-based Image Processing, Web Tech, Model Optimization  
-- 🌱 **Learning:** Full-Stack Development, DL Optimization, Cloud AI  
-- 🎯 **Future Goals:** AI Researcher | ML Engineer | Open-Source Contributor  
-- 🏆 **Competitive Coder:** Leetcode & Codeforces  
+### 🧠 Currently Learning
+- Software Engineering & System Design  
+- React.js for Frontend Development  
+- NestJS & TypeORM for Backend  
+- Computer Vision fundamentals  
 
 ---
 
-## 🚀 **Technical Skills**  
-
-### 🖥️ **Programming Languages**  
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Programming+Languages%3A" alt="Typing Animation" />
-  <br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
-
-### 🌐 **Web & Backend Development**  
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Web+%2F+Backend+Development%3A" alt="Typing Animation" />
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-</p>
-
-### 🗄️ **Databases**  
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&width=435&lines=Databases%3A" alt="Typing Animation" />
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+### ⚙️ Tech Stack
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, jQuery  
+**Backend:** Node.js, NestJS, PHP  
+**Database:** MySQL, PostgreSQL  
+**Others:** Git, GitHub, REST APIs, TypeORM, C#, Java, Python  
 
 ---
 
-## 🔥 **Projects**  
-| 🚀 Project | 📝 Description | 🔗 Link |
-|------------|--------------|--------|
-| **Garage** | A Java-based garage rental system. | [🔗 GitHub](#) |
-| **Military Management System** | A database-driven system for military operations. | [🔗 GitHub](#) |
-| **Garage Rental** | A C# application for managing garage rentals. | [🔗 GitHub](#) |
-| **Freelancing Platform** | A web app inspired by Fiverr/Upwork. | [🔗 GitHub](https://github.com/lut-ful/web-tech-lab-work) |
+### 🧰 Tools & Technologies
+- VS Code  
+- Postman  
+- Git & GitHub  
+- Figma (for UI mockups)  
+- Adobe Illustrator  
 
 ---
 
-## 📊 **GitHub Stats & Activity**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BlazeDashX&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlazeDashX&show_icons=true&theme=algolia&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeDashX&layout=compact&theme=algolia&hide_border=true">
-</p>
+### 📈 GitHub Stats
+![Refat's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazeDashX&show_icons=true&theme=transparent&hide_border=true)
 
 ---
 
-## 🎓 **Education & Certifications**  
-🎓 **B.Sc. in Computer Science & Engineering** - AIUB (Expected 2026)  
-
-📌 **Upcoming Certifications:**  
-- **Machine Learning with Python** - Coursera *(Planned)*  
-- **Deep Learning Specialization** - Stanford AI Lab *(Planned)*  
-- **Full-Stack Web Development** - Udemy *(Planned)*  
+### 🚀 Projects
+- 🧩 **Monsters Rolodex** — React-based app for searching and filtering users  
+- 💼 **Freelancing Site Clone** — Web app inspired by Fiverr & Upwork  
+- 🧠 **Compiler Syntax Analyzer** — Academic project built with TypeScript  
 
 ---
 
-## 🤝 **Let's Connect**  
-📧 **Email:** [refat00021@gmail.com](mailto:refat00021@gmail.com)  
-🌐 **Portfolio:** [YourWebsite.com](#)  
-💼 **LinkedIn:** [Refat Md. Labbi](https://www.linkedin.com/in/refatlabbi)  
-🐦 **Twitter/X:** [@Refat_21](https://x.com/Refat_21)  
+### 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/BlazeDashX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail)](mailto:)
 
 ---
 
-🎉 **Thanks for visiting!** 🚀 Let's build something amazing together!
+_“Code, Learn, and Evolve — every line matters.”_
