@@ -1,8 +1,8 @@
----
+<br/>
 
 ## 🧬 ENGINEERING TELEMETRY DASHBOARD
 
-> *Metrics focused on consistency, system design behavior, and long-term engineering patterns.*
+<sub><i>Metrics focused on consistency, system design behavior, and long-term engineering patterns.</i></sub>
 
 <div align="center">
 
@@ -12,7 +12,8 @@
 
 </div>
 
----
+<br/>
+
 
 ## 🔁 CONTRIBUTION CONSISTENCY INDEX
 
