@@ -1,93 +1,64 @@
-<!-- ==========================
-     Refat Md. Labbi — README
-     Creative · Modern · Neon
-     ========================== -->
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2c003e&height=180&section=header&text=REFAT%20MD%20LABBI&fontSize=70&fontColor=00f2ff&animation=fadeIn&fontAlignY=45&desc=FULL%20STACK%20OPERATIVE&descSize=25&descColor=ff00ff&descAlignY=75" width="100%" />
 
-<!-- Top Gradient Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:08F7FE&height=140&section=header&text=Refat%20Md.%20Labbi&fontSize=40&animation=twinkling" alt="Refat Md. Labbi — Full-Stack Developer" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=System.init(ReactJS,+NestJS);Building+Scalable+Architectures;Exploring+AI+%26+Computer+Vision;" alt="Typing SVG" />
+  </a>
 
-<!-- Animated typing intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=08F7FE&center=true&vCenter=true&width=700&lines=Hey+there!+👋;I'm+Refat+Md.+Labbi;Full-Stack+Developer+💻;Building+modern+web+apps+&+exploring+AI+🚀" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://github.com/BlazeDashX"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/refatlabbi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:refat00021@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-## 🧠 About Me
-Passionate Full-Stack Developer focused on building **scalable, modern web applications** and exploring **Computer Vision** & **AI**. I enjoy turning ideas into code and learning practical engineering approaches.
-
-- 🔭 Currently building: full-stack apps with **React.js** and **NestJS**  
-- 🎯 Focus: Production-ready features, clean architecture, and model-aware web apps  
-- 📚 Currently learning: **Software Engineering**, **React.js**, **NestJS**, **Computer Vision**
+  <p>
+    <a href="https://github.com/BlazeDashX">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00f2ff&color=black&labelColor=1a1a1a"/>
+    </a>
+    <a href="https://www.linkedin.com/in/refatlabbi">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00f2ff&color=black&labelColor=1a1a1a"/>
+    </a>
+    <a href="mailto:refat00021@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=ff00ff&color=black&labelColor=1a1a1a"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-## ⚡ Tech & Skills
-**Languages:**  
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> 
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"> 
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"> 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black">
+### 🟢 <span style="color: #39FF14">SYSTEM STATUS: ONLINE</span>
 
-**Frontend:**  
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"> 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+> *"I build production-ready web applications with a focus on clean architecture and high-performance models."*
 
-**Backend / Frameworks:**  
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> 
-<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"> 
-<img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FF6C37?style=flat-square&logo=typeorm&logoColor=white"> 
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-
-**Databases & Tools:**  
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"> 
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005E86?style=flat-square&logo=mysql&logoColor=white"> 
-<img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"> 
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> 
-<img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white">
+- 🔭 **Current Directive:** Architecting scalable apps with **React.js** & **NestJS**.
+- 🔮 **Researching:** Computer Vision integration in web environments.
+- ⚡ **Core Logic:** `Clean Code` > `Quick Hacks`
 
 ---
 
-## 📊 GitHub Insights
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=BlazeDashX&show_icons=true&theme=radical&count_private=true" alt="Refat's GitHub stats" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeDashX&theme=radical" alt="Refat's GitHub Streak" />
-</p>
+### 🛠 <span style="color: #00f2ff">TECH ARSENAL</span>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlazeDashX&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,python,cpp,c,cs&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,postman,vscode,linux,html,css&theme=dark" />
+</div>
 
 ---
 
-## 🚀 Featured Project
+### 📊 <span style="color: #ff00ff">DATA METRICS</span>
 
-| 🧩 Project | 📝 Description | 💻 Tech | 📂 Source Code | 🌐 Live Demo |
-|---|---:|:---:|:---:|:---:|
-| **Monsters Rolodex** | React app for searching & filtering users dynamically; built with component-driven design and clean CSS. | React · API · CSS | [![Source](https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlazeDashX/monsters-rolodex-src) | [![Live](https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=github-pages&logoColor=white)](https://blazedashx.github.io/monsters-rolodex/) |
-
-> Tip: Click the **Source** badge to inspect the code and the **Live Demo** badge to see the running app.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlazeDashX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=39FF14&title_color=00f2ff&text_color=ffffff" height="180" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeDashX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff00ff" height="180" alt="languages" />
+</div>
 
 ---
 
-## 📦 How to run "Monsters Rolodex" locally
-```bash
-# clone the repo
-git clone https://github.com/BlazeDashX/monsters-rolodex-src.git
-cd monsters-rolodex-src
+### 🚀 <span style="color: #00f2ff">DEPLOYED ENTITIES</span>
 
-# install & run
-npm install
-npm start
-# build for production
-npm run build
+| 📦 **Project** | 📄 **Protocol** | 🔧 **Tech Core** | 🔗 **Access** |
+| :--- | :--- | :--- | :--- |
+| **Dynamic Directory** | A high-performance React SPA for filtering and managing user entities in real-time. | `React` `CSS Modules` `Rest API` | [![Code](https://img.shields.io/badge/CODE-000?style=flat&logo=github&logoColor=39FF14)](https://github.com/BlazeDashX/monsters-rolodex-src) [![Live](https://img.shields.io/badge/LIVE-000?style=flat&logo=vercel&logoColor=ff00ff)](https://blazedashx.github.io/monsters-rolodex/) |
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2c003e,30&height=100&section=footer" width="100%"/>
+</div>
