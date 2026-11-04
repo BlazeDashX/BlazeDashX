@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Engineering workbench map of frontend, application services and data systems">
+ <defs>
+  <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A101A"/><stop offset="1" stop-color="#152438"/></linearGradient>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FF9348"/><stop offset="1" stop-color="#FF642D"/></linearGradient>
+ </defs>
+ <rect width="1200" height="320" rx="18" fill="url(#b)" stroke="#2C4159"/>
+ <path d="M0 45H1200M0 275H1200" stroke="#35536A" opacity=".45"/>
+ <text x="38" y="31" fill="#30C8F1" font-family="monospace" font-size="12" letter-spacing="3">WORKBENCH  /  HOW THE PIECES CONNECT</text>
+ <g fill="none" stroke="#315A77" stroke-width="2">
+  <path d="M330 165H425"/><path d="M744 165H840"/>
+  <path d="M415 159L425 165L415 171"/><path d="M830 159L840 165L830 171"/>
+ </g>
+ <g>
+  <rect x="38" y="72" width="290" height="186" rx="14" fill="#132438" stroke="#366D8C" stroke-width="1.6"/>
+  <rect x="54" y="89" width="260" height="55" rx="9" fill="#203A4F"/>
+  <circle cx="81" cy="116" r="16" fill="#214E65"/><path d="M74 116H88M81 109V123" stroke="#30C8F1" stroke-width="2"/>
+  <text x="110" y="111" fill="#30C8F1" font-family="monospace" font-size="12">INTERFACE</text>
+  <text x="110" y="129" fill="#EAF1F8" font-family="Arial" font-size="15" font-weight="700">React · Next.js · Expo</text>
+  <text x="57" y="182" fill="#E7EEF5" font-family="Arial" font-size="17" font-weight="700">What people use</text>
+  <text x="57" y="210" fill="#A3B7C7" font-family="Arial" font-size="13">Forms, navigation, state and UX</text>
+  <text x="57" y="234" fill="#A3B7C7" font-family="Arial" font-size="13">Desktop + mobile interfaces</text>
+ </g>
+ <g>
+  <rect x="425" y="72" width="320" height="186" rx="14" fill="#18202F" stroke="#9E5D45" stroke-width="1.6"/>
+  <rect x="442" y="89" width="286" height="55" rx="9" fill="#3B2C31"/>
+  <circle cx="471" cy="116" r="16" fill="#6C3B32"/><path d="M463 116H479M471 108V124" stroke="#FF9348" stroke-width="2"/>
+  <text x="504" y="111" fill="#F9B282" font-family="monospace" font-size="12">APPLICATION LOGIC</text>
+  <text x="504" y="129" fill="#EAF1F8" font-family="Arial" font-size="15" font-weight="700">Express · NestJS · Auth</text>
+  <text x="445" y="182" fill="#E7EEF5" font-family="Arial" font-size="17" font-weight="700">What makes it work</text>
+  <text x="445" y="210" fill="#A3B7C7" font-family="Arial" font-size="13">Validation, business rules, endpoints</text>
+  <text x="445" y="234" fill="#A3B7C7" font-family="Arial" font-size="13">Access control and workflows</text>
+ </g>
+ <g>
+  <rect x="840" y="72" width="320" height="186" rx="14" fill="#132438" stroke="#366D8C" stroke-width="1.6"/>
+  <rect x="857" y="89" width="286" height="55" rx="9" fill="#203A4F"/>
+  <circle cx="884" cy="116" r="16" fill="#214E65"/><path d="M875 111Q884 103 893 111M875 118Q884 127 893 118" stroke="#30C8F1" stroke-width="2" fill="none"/>
+  <text x="915" y="111" fill="#30C8F1" font-family="monospace" font-size="12">DATA + DELIVERY</text>
+  <text x="915" y="129" fill="#EAF1F8" font-family="Arial" font-size="15" font-weight="700">PostgreSQL · Git · Vercel</text>
+  <text x="861" y="182" fill="#E7EEF5" font-family="Arial" font-size="17" font-weight="700">What persists</text>
+  <text x="861" y="210" fill="#A3B7C7" font-family="Arial" font-size="13">Schema, migrations and deployment</text>
+  <text x="861" y="234" fill="#A3B7C7" font-family="Arial" font-size="13">Testing and repeatable workflows</text>
+ </g>
+ <text x="40" y="299" fill="#8A9EB2" font-family="monospace" font-size="11">A VISUAL SUMMARY OF TECHNOLOGIES USED ACROSS PROJECTS  ·  NOT A CLAIM OF EXPERTISE IN ALL TOOLS</text>
+</svg>

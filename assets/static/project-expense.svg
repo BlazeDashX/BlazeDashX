@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B121D"/><stop offset="1" stop-color="#18283E"/></linearGradient>
+  <linearGradient id="sage" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#267AC0"/><stop offset="1" stop-color="#35C9F4"/></linearGradient>
+</defs>
+<rect width="1200" height="350" rx="18" fill="url(#bg)"/>
+<text x="36" y="40" fill="#67D0EE" font-family="Arial" font-size="11" letter-spacing="3">01 / PERSONAL FINANCE SYSTEM</text>
+<text x="36" y="88" fill="#F3F7FC" font-family="Georgia" font-size="36" font-weight="bold">Personal Expense Tracker</text>
+<text x="38" y="116" fill="#A9BACD" font-family="Arial" font-size="14">A single-admin workspace for financial records, budgets and reports.</text>
+<!-- dashboard window -->
+<rect x="36" y="142" width="1128" height="176" rx="12" fill="#F0F0E8"/>
+<rect x="36" y="142" width="1128" height="30" rx="12" fill="#E1E4D9"/>
+<circle cx="55" cy="157" r="4" fill="#FF7334"/><circle cx="69" cy="157" r="4" fill="#FFB354"/><circle cx="83" cy="157" r="4" fill="#2BBBEA"/>
+<!-- sidebar -->
+<rect x="36" y="172" width="150" height="146" fill="#223850"/>
+<text x="55" y="197" fill="#D9E2D5" font-family="Arial" font-size="10" letter-spacing="1.5">FINANCE / HUB</text>
+<g fill="#76A8C6">
+ <rect x="55" y="215" width="88" height="5" rx="2"/>
+ <rect x="55" y="235" width="68" height="5" rx="2"/>
+ <rect x="55" y="255" width="79" height="5" rx="2"/>
+ <rect x="55" y="275" width="59" height="5" rx="2"/>
+</g>
+<!-- overview cards -->
+<text x="210" y="195" fill="#334239" font-family="Arial" font-size="12" font-weight="bold">Financial overview</text>
+<g>
+ <rect x="210" y="207" width="205" height="54" rx="7" fill="#D9ECF6"/>
+ <text x="226" y="227" fill="#507690" font-family="Arial" font-size="9" letter-spacing="1">EXPENSES</text>
+ <path d="M226 241H330" stroke="#2796C6" stroke-width="6" stroke-linecap="round"/>
+ <rect x="430" y="207" width="205" height="54" rx="7" fill="#FAE4D2"/>
+ <text x="446" y="227" fill="#AD6943" font-family="Arial" font-size="9" letter-spacing="1">BUDGETS</text>
+ <path d="M446 241H580" stroke="#FF9448" stroke-width="6" stroke-linecap="round"/>
+ <rect x="650" y="207" width="205" height="54" rx="7" fill="#E6EEF4"/>
+ <text x="666" y="227" fill="#507690" font-family="Arial" font-size="9" letter-spacing="1">TRANSACTIONS</text>
+ <path d="M666 241H786" stroke="#2796C6" stroke-width="6" stroke-linecap="round"/>
+</g>
+<!-- chart -->
+<rect x="875" y="187" width="265" height="112" rx="7" fill="#E7E9E1"/>
+<text x="892" y="207" fill="#526355" font-family="Arial" font-size="9" letter-spacing="1">CASH FLOW / REPORTS</text>
+<path d="M895 277L925 256L953 265L984 232L1012 246L1043 219L1070 235L1118 213" fill="none" stroke="#2796C6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M895 277L925 256L953 265L984 232L1012 246L1043 219L1070 235L1118 213L1118 284L895 284Z" fill="#56C1DF" fill-opacity=".18"/>
+<g fill="#76A8C6"><rect x="895" y="287" width="9" height="4" rx="2"/><rect x="911" y="287" width="9" height="4" rx="2"/><rect x="927" y="287" width="9" height="4" rx="2"/></g>
+<text x="38" y="338" fill="#8FB2C7" font-family="monospace" font-size="10">NEXT.JS 16  ·  AUTH.JS  ·  DRIZZLE ORM  ·  NEON POSTGRESQL  ·  VITEST</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="310" viewBox="0 0 720 310">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1524"/><stop offset="1" stop-color="#1A2A40"/></linearGradient></defs>
+<rect width="720" height="310" rx="16" fill="url(#bg)"/>
+<path d="M0 268H720" stroke="#3999D0" stroke-opacity=".18"/>
+<text x="34" y="39" fill="#63D0F0" font-family="Arial" font-size="11" letter-spacing="3">02 / MOBILE RECOVERY PLATFORM</text>
+<text x="34" y="86" fill="#F3F7FC" font-family="Georgia" font-size="34" font-weight="bold">LostLink</text>
+<text x="36" y="112" fill="#AFBDD0" font-family="Arial" font-size="14">Report an item. Find a match. Coordinate recovery.</text>
+<!-- phone -->
+<rect x="450" y="30" width="210" height="250" rx="24" fill="#101927" stroke="#3999D0" stroke-width="1.5"/>
+<rect x="461" y="43" width="188" height="224" rx="16" fill="#F1F5FA"/>
+<rect x="524" y="49" width="62" height="5" rx="3" fill="#8EA8BD"/>
+<text x="478" y="79" fill="#27394C" font-family="Arial" font-size="13" font-weight="bold">Nearby reports</text>
+<rect x="477" y="92" width="156" height="54" rx="8" fill="#DEEAF4"/>
+<circle cx="499" cy="119" r="13" fill="#C6E2F2"/>
+<path d="M495 113L503 113L505 126L493 126Z" fill="#2D87B8"/>
+<text x="520" y="113" fill="#293E54" font-family="Arial" font-size="10" font-weight="bold">Blue backpack</text>
+<text x="520" y="128" fill="#748CA0" font-family="Arial" font-size="8">FOUND · CAMPUS</text>
+<rect x="477" y="155" width="156" height="54" rx="8" fill="#F7E8DB"/>
+<circle cx="499" cy="182" r="13" fill="#F5C7A4"/>
+<path d="M494 178L499 168L504 178L499 193Z" fill="#E67635"/>
+<text x="520" y="176" fill="#293E54" font-family="Arial" font-size="10" font-weight="bold">House keys</text>
+<text x="520" y="191" fill="#748CA0" font-family="Arial" font-size="8">LOST · LIBRARY</text>
+<rect x="477" y="219" width="156" height="31" rx="8" fill="#197FAF"/>
+<text x="517" y="239" fill="#FFFFFF" font-family="Arial" font-size="9" letter-spacing="1">REPORT ITEM</text>
+<!-- flow line -->
+<g transform="translate(36 165)" font-family="Arial">
+  <rect x="0" y="0" width="340" height="72" rx="10" fill="#15263B" stroke="#2782B1" stroke-opacity=".6"/>
+  <path d="M55 26H278" stroke="#3999D0" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <circle cx="55" cy="26" r="13" fill="#3999D0"/><circle cx="166" cy="26" r="13" fill="#FF873D"/><circle cx="278" cy="26" r="13" fill="#3999D0"/>
+  <g fill="#0B1524" font-size="10" font-weight="bold" text-anchor="middle"><text x="55" y="30">1</text><text x="166" y="30">2</text><text x="278" y="30">3</text></g>
+  <g fill="#DDEAF4" font-size="9" text-anchor="middle" letter-spacing="1"><text x="55" y="55">REPORT</text><text x="166" y="55">CLAIM</text><text x="278" y="55">RECOVER</text></g>
+</g>
+<text x="36" y="287" fill="#8BAEC6" font-family="monospace" font-size="10">EXPO / REACT NATIVE  ·  EXPRESS / POSTGRESQL</text>
+</svg>

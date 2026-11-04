@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="310" viewBox="0 0 720 310">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1522"/><stop offset="1" stop-color="#242638"/></linearGradient></defs>
+<rect width="720" height="310" rx="16" fill="url(#bg)"/>
+<text x="34" y="39" fill="#FF9A53" font-family="Arial" font-size="11" letter-spacing="3">03 / CORPORATE WEB PLATFORM</text>
+<text x="34" y="86" fill="#F1F7FE" font-family="Georgia" font-size="34" font-weight="bold">Ayanco Trade Corporation</text>
+<text x="36" y="112" fill="#B8C3D4" font-family="Arial" font-size="14">Public catalogue, quote requests and protected content management.</text>
+<!-- website window -->
+<rect x="34" y="137" width="390" height="139" rx="9" fill="#F3F5F9"/>
+<rect x="34" y="137" width="390" height="25" rx="9" fill="#E5EAF2"/>
+<circle cx="51" cy="149" r="3.5" fill="#FF7333"/><circle cx="63" cy="149" r="3.5" fill="#FFBC59"/><circle cx="75" cy="149" r="3.5" fill="#33BFF5"/>
+<text x="54" y="187" fill="#293746" font-family="Arial" font-size="12" font-weight="bold" letter-spacing="1">AYANCO</text>
+<text x="54" y="207" fill="#77889A" font-family="Arial" font-size="8" letter-spacing="1">INDUSTRIAL PRODUCTS &amp; SERVICES</text>
+<rect x="54" y="220" width="165" height="40" rx="5" fill="#E8EFF7"/>
+<text x="66" y="237" fill="#384B5D" font-family="Arial" font-size="9" font-weight="bold">PRODUCT CATALOGUE</text>
+<text x="66" y="250" fill="#8195A9" font-family="Arial" font-size="7">Browse product information</text>
+<rect x="229" y="220" width="175" height="40" rx="5" fill="#FFF1E5"/>
+<text x="241" y="237" fill="#384B5D" font-family="Arial" font-size="9" font-weight="bold">REQUEST A QUOTE</text>
+<text x="241" y="250" fill="#8195A9" font-family="Arial" font-size="7">Submit an enquiry</text>
+<!-- admin content stack -->
+<g transform="translate(458 139)" font-family="Arial">
+  <text x="0" y="0" fill="#FF9A53" font-size="10" letter-spacing="2">ADMIN / CONTENT CONTROL</text>
+  <rect x="0" y="18" width="225" height="34" rx="6" fill="#3C2C27" stroke="#F99042"/>
+  <text x="14" y="40" fill="#F1F7FE" font-size="11">Hero slides</text>
+  <rect x="0" y="62" width="225" height="34" rx="6" fill="#1C3546" stroke="#269EC9"/>
+  <text x="14" y="84" fill="#F1F7FE" font-size="11">Products and services</text>
+  <rect x="0" y="106" width="225" height="34" rx="6" fill="#1C3546" stroke="#269EC9"/>
+  <text x="14" y="128" fill="#F1F7FE" font-size="11">Protected media uploads</text>
+</g>
+<text x="36" y="295" fill="#9EBBD1" font-family="monospace" font-size="10">NEXT.JS 16  ·  NEXTAUTH  ·  CLOUDFLARE D1 / R2  ·  RESEND</text>
+</svg>
